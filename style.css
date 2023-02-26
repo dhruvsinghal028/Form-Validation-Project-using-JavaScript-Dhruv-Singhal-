@@ -1,0 +1,25 @@
+body{
+    padding: 10px 50px;
+}
+
+.formdesign{
+    font-size: 25px;
+}
+
+.formdesign input{
+    width: 41%;
+    padding: 7px 13px;
+}
+
+.formerror{
+    color: red;
+}
+
+.btn{
+    color: white;
+    border-radius: 6px;
+    border: 2px solid black;
+    margin: 20px 10px;
+    padding: 5px;
+    background-color: #d02c5b;
+}
